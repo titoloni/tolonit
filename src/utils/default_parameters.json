@@ -1,0 +1,44 @@
+[
+        {
+            "base": "CNPJ9",
+            "type_process": "delta",
+            "last_partition_date": null,
+            "previous_partition_date": null,
+            "is_to_process": true
+        },
+        {
+            "base": "CNPJ14",
+            "type_process": "delta",
+            "last_partition_date": null,
+            "previous_partition_date": null,
+            "is_to_process": true
+        },
+        {
+            "base": "CONTA_BANCARIA",
+            "type_process": "delta",
+            "last_partition_date": 0,
+            "previous_partition_date": null,
+            "is_to_process": true
+        },
+        {
+            "base": "CARTEIRA",
+            "type_process": "delta",
+            "last_partition_date": 0,
+            "previous_partition_date": null,
+            "is_to_process": true
+        },
+        {
+            "base": "CONTA_CLIENTE",
+            "type_process": "delta",
+            "last_partition_date": null,
+            "previous_partition_date": null,
+            "is_to_process": true
+        },
+        {
+            "base": "CARTEIRA_CONTA",
+            "type_process": "delta",
+            "last_partition_date": null,
+            "previous_partition_date": null,
+            "is_to_process": true
+        }
+    ]
