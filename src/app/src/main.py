@@ -10,7 +10,7 @@ from utils.utils import get_schema
 
 def main():
     # Datas de Processamento
-    ultima_data_cache = get_ultima_data_cache()
+    ultima_data_cache = get_ultima_data_cache()  # lista base - data
     ultima_data_mesh = get_ultima_data_mesh()
 
     # Spark Session
